@@ -51,15 +51,16 @@ Here is the experiment setup we designed in my work.
 
 <p align="center" width="100%">
 <img src="https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/experimental_setup.png" width=30%>
-<img src="https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/data_increment.png" width=55%>
+<img src="https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/data_increment.png" width=50%>
 </p>
+
 
 ### Dataset and Feature Embedding
 The dataset utilized in my work is subject to data privacy and confidentiality requirements, therefore I am not able to publicly share the dataset and corresponding feature embedding of my work.
 
 <p align="center" width="100%">
-    <img width="45%" src="https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/data_distribution.JPG">
-    <img width="47%" src="https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/feature_embedding.png">
+    <img width="40%" src="https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/data_distribution.JPG">
+    <img width="30%" src="https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/feature_embedding.png">
 </p>
 
 ### Results
