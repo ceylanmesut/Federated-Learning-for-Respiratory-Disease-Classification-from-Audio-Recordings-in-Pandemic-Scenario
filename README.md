@@ -1,13 +1,14 @@
 ## Federated Learning for Respiratory Disease Classification in Hypothetical Pandemic Scenario
 This repository consists of my master thesis in which we studied the capability of federated learning in hypothetical pandemic scenario over respiratory disease classification from audio signals captured from COPD, asthma, COVID-19 patients and healthy subjects.
 
-![](https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/tree/main/plots\experimental_setup.png)
+![](https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/tree/main/plots/experimental_setup.png)
 
 ### Abstract
 Federated Learning (FL) is a prominent machine learning paradigm that enables distributed algorithm training by exchanging gradient information between the server and edge devices without data access and storage, thus mitigating data privacy and confidentially restrictions. With the outbreak of the most recent global pandemic, COVID-19, utilization of distributed health data and collaborative efforts to develop artificial intelligence driven mechanisms gained tremendous importance in the healthcare domain to avert detrimental consequences. Despite various studies within the existing body of research in this scope, COVID-19 classification from audio recordings of the patients in a privacy-preserving fashion is undiscovered. To fill the research gap and align with these efforts, we deploy the FL scheme and formulate a hypothetical pandemic scenario in which cough is a symptom of spreading disease, mimicking the COVID-19 pandemic. We conduct a comprehensive analysis of the factors influencing this scenario and federated optimization performance such as the number of cough samples, participating patients, information exchange, and local epochs of edge devices. Based on our experiments, we propose a federated cough classifier algorithm that achieves 73% accuracy on COVID-19 and 75% overall classification performance, when 9 infected individual accumulates a total of 2535 cough samples over a 100-day period and edge devices train for 50 epochs and send their gradient information to the server model once a day. Our experiments and algorithm demonstrate the capabilities of federated learning in the hypothetical pandemic for the cough classification from audio recordings captured from smartphones task explicitly. As the first study in this scope, our work proposes a promising approach that can be further developed and employed as a pandemic detection instrument.
 
 ### Dataset and Feature Embedding
 The dataset utilized in my work is subject to data privacy and confidentiality requirements, therefore I am not able to publicly share the dataset and corresponding feature embedding of my work.
+![](https://github.com/ceylanmesut/Federated-Learning-for-Respiratory-Disease-Classification-from-Audio-Recordings-in-Pandemic-Scenario/blob/main/plots/data_distribution.JPG)
 
 ### License
 This work is license under MIT License.
